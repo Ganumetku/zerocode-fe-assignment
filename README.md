@@ -34,3 +34,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# ZeroCode Frontend Assignment
+
+A production-ready chatbot web application built with Next.js, TypeScript, and Tailwind CSS.
+
+## Features
+
+- JWT-based authentication (Register/Login flows)
+- Responsive chat interface with real-time messaging
+- Light/dark mode toggle
+- Prompt templates for quick suggestions
+- Chat analytics dashboard
+- Chat export functionality
+- Voice input (placeholder implementation)
+
+## Setup
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/zerocode-fe-assignment.git
+   cd zerocode-fe-assignment
